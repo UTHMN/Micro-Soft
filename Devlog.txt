@@ -1,0 +1,34 @@
+DEVLOG
+------
+V1.0.6
+- Added Music App
+- Fixed Bugs
+- Started Progress on Big Update
+
+V1.0.5
+- Changed UI
+- Added Sfx
+- Started progress on new app
+
+V1.0.4
+- Added light level
+- Added Sound level
+
+V1.0.3
+- Made it easier to understand
+
+V1.0.2
+- Added temperature app
+- fixed calibration
+- Added offset to temprature app
+
+V1.0.1
+- Added stopwatch with pause feature,
+- Fixed UI
+- Made compass calibrationnon start
+
+V1.0.0 
+- Added Menu screen,
+- Compass,
+- Light,
+- working navigation.
