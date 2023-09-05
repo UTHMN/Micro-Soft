@@ -1,5 +1,8 @@
 DEVLOG
 ------
+V1.0.7
+- Revamped number system using display function
+
 V1.0.6
 - Added Music App
 - Fixed Bugs
