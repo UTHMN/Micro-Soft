@@ -1,5 +1,6 @@
 # Micro:Soft
-A Software for the __Micro:Bit__ V2
+A Software for the __Micro:Bit__ V2,
+Made by 1 guy who thinks he is a whole team.
 
 ## Current app count
 - 7
