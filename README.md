@@ -18,3 +18,4 @@ From that, your microbit will disconnect and reconnect automatically and run the
 Do not unplug it whilst it restarts
 
 Feel free to take any code no need for credits. I will upload a python file which I recommend you run on [here](https://makecode.microbit.org/)
+yeah thats my best option...
