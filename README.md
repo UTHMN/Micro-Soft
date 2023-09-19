@@ -15,4 +15,6 @@ Step 3. Open files
 Step 4. drag the hex file into your micro:bit
 
 From that, your microbit will disconnect and reconnect automatically and run the code.
-Do not unplug it whilst it restarts.
+Do not unplug it whilst it restarts
+
+Feel free to take any code no need for cedits. I will upload a python file which I recommend you run on makecode.microbit.org
